@@ -1,0 +1,28 @@
+Module 2: Understanding Neural Networks with Tensorflow
+
+Assignment
+
+Install TensorFlow on your system, after installing the framework, Solve the below mentioned problem statement.
+
+A Prime equity fund has hired you as a data scientist to analyse the data of 50 potential investee companies and
+create a model that will find the type of companies that he should invest in to maximize the profit.
+
+They want to see which types of companies perform better, for eg - a company which spends on marketing or which spends more on R&D.
+
+The dataset can be downloaded from same folder
+
+Column information:
+• R&D spend - Research and Development expenditure of respective company.
+• Administration - Administration expenditure of respective company.
+• Marketing Spend - Marketing Spend of respective company.
+• State - Location of company.
+• Profit - Annual profit of respective company.
+
+Perform the following tasks on the dataset
+
+Task 1: Install TensorFlow on your system
+→ Run a hello world command
+
+Task 2: Train a linear regression model
+→ Train the linear regression model using training set
+→ Test the created model using testing set
